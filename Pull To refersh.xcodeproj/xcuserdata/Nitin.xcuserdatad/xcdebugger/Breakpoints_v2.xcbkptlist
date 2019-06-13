@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pull To refersh/ViewController2.swift"
+            timestampString = "582095933.659045"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "refreshData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Pull_To_refersh.ViewController2.refreshData(__C.UIRefreshControl) -&gt; ()"
+                  moduleName = "Pull To refersh"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nitin/Desktop/Pull%20To%20refersh/Pull%20To%20refersh/ViewController2.swift"
+                  timestampString = "582095614.040043"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 () -&gt; () in Pull_To_refersh.ViewController2.refreshData(__C.UIRefreshControl) -&gt; ()"
+                  moduleName = "Pull To refersh"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nitin/Desktop/Pull%20To%20refersh/Pull%20To%20refersh/ViewController2.swift"
+                  timestampString = "582095614.043684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pull To refersh/ViewController2.swift"
+            timestampString = "582095933.659524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "callApi(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Pull_To_refersh.ViewController2.callApi(completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Pull To refersh"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nitin/Desktop/Pull%20To%20refersh/Pull%20To%20refersh/ViewController2.swift"
+                  timestampString = "582095614.0523911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in default argument 0 of Pull_To_refersh.ViewController2.callApi(completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Pull To refersh"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nitin/Desktop/Pull%20To%20refersh/Pull%20To%20refersh/ViewController2.swift"
+                  timestampString = "582095614.055945"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pull_To_refersh.ViewController2.callApi(completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Pull To refersh"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nitin/Desktop/Pull%20To%20refersh/Pull%20To%20refersh/ViewController2.swift"
+                  timestampString = "582095614.059526"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
